@@ -1,6 +1,6 @@
-# TeleNoise: A Network-Noise Layer for Real-Time In-Band Telemetry
-This repository contains the code reproducing the experimental evaluation in the paper "TeleNoise: A Network-Noise Layer
-for Real-Time In-Band Telemetry"
+# TeleNoise: A Network-Noise Module for In-Band Real-Time Telemetry
+This repository contains the code reproducing the experimental evaluation in the paper "TeleNoise: A Network-Noise Module
+for In-Band Real-Time Telemetry"
 
 The evaluations are based on the YAPS simulator(https://github.com/NetSys/simulator).
 
