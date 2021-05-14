@@ -1,4 +1,4 @@
-# TeleNoise: A Network-Noise Module for In-Band Real-Time Telemetry
+# TeleNoise: A Network-Noise Layer for Real-Time In-Band Telemetry (Code for Evaluation)
 This repository contains the code reproducing the experimental evaluation in the paper "TeleNoise: A Network-Noise Module
 for In-Band Real-Time Telemetry"
 
@@ -23,3 +23,9 @@ The simulator outputs values of all calculated metrics to the file `output.ans` 
 `conf_standard.txt` -- the configuration file for the standard experiment.
 
 `output_standard.txt` -- values of all calculated metrics in the standard experiment.
+
+## Authors
+
+* Vitalii Demianiuk
+* Sergey Gorinsky
+* Kirill Kogan
